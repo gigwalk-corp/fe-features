@@ -1,0 +1,12 @@
+{
+    "projectBuilder": [{
+        "verticals": ["STAFFING"]
+    }, {
+        "orgs": [730, 752, 1008],
+        "verticals": ["CPG"]
+    }],
+    "ticketRefacto": {
+        "orgs": [379]
+    },
+    "projectBuilderRepeat": false
+}
