@@ -8,5 +8,10 @@
     "ticketRefacto": {
         "orgs": [379]
     },
-    "projectBuilderRepeat": false
+    "projectBuilderRepeat": false,
+    "canUseCrowdsourcing": {
+        "orgNeedsCore": true,
+        "verticals": ["CPG"]
+    },
+    "showCrowdsourcingToggle": false
 }
