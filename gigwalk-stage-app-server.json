@@ -2,7 +2,7 @@
     "projectBuilder": [{
         "verticals": ["STAFFING"]
     }, {
-        "orgs": [730, 752, 1008],
+        "orgs": [730, 752, 1008, 1062],
         "verticals": ["CPG"]
     }],
     "ticketRefacto": {
