@@ -37,9 +37,9 @@
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
     "SPB_TicketDateRange": {
-        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+        "verticals": ["CPG", "RETAIL_MERCHANDISING", "STAFFING"]
     },
     "SPB_TicketDateASAP": {
-        "verticals": ["CPG", "RETAIL_MERCHANDISING", "STAFFING"]
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     }
 }
