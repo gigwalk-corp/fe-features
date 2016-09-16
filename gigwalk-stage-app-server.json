@@ -2,7 +2,7 @@
     "projectBuilder": [{
         "verticals": ["STAFFING"]
     }, {
-        "orgs": [730, 752, 1008, 1062],
+        "orgs": [730, 752, 1008],
         "verticals": ["CPG"]
     }],
     "ticketRefacto": {
@@ -15,7 +15,7 @@
     "canUseCrowdsourcing": {
         "orgNeedsCore": true
     },
-    "showCrowdsourcingToggle": false,
+    "showCrowdsourcingToggle": true,
     "SPB_HardDatedTickets": [{
         "verticals": ["STAFFING"]
     }, {
@@ -32,6 +32,12 @@
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
     "SPB_AdvancedQuestionFeatures": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "SPB_TicketDateRange": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING", "STAFFING"]
+    },
+    "SPB_TicketDateASAP": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     }
 }
