@@ -2,11 +2,42 @@
     "projectBuilder": [{
         "verticals": ["STAFFING"]
     }, {
-        "orgs": [730, 752, 1008],
+        "orgs": [730, 752, 1008, 317],
         "verticals": ["CPG"]
     }],
     "ticketRefacto": {
         "orgs": [379]
     },
-    "projectBuilderRepeat": false
+    "projectBuilderRepeat": {
+        "verticals": ["RETAIL_MERCHANDISING"],
+        "orgs": [7]
+    },
+    "canUseCrowdsourcing": {
+        "orgNeedsCore": true
+    },
+    "showCrowdsourcingToggle": false,
+    "SPB_HardDatedTickets": [{
+        "verticals": ["STAFFING"]
+    }, {
+        "verticals": ["RETAIL_MERCHANDISING"],
+        "orgs": [7]
+    }],
+    "SPB_SoftDatedTickets": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "SPB_LocationUpload": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "showProductTab": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "SPB_AdvancedQuestionFeatures": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "SPB_TicketDateRange": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING", "STAFFING"]
+    },
+    "SPB_TicketDateASAP": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    }
 }
