@@ -29,7 +29,7 @@
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
     "showProductTab": {
-        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+        "verticals": []
     },
     "SPB_AdvancedQuestionFeatures": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
