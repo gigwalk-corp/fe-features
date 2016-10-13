@@ -4,6 +4,8 @@
     }, {
         "orgs": [730, 752, 1008, 1062],
         "verticals": ["CPG"]
+    }, {
+        "orgs": [7313]
     }],
     "ticketRefacto": {
         "orgs": [379]
