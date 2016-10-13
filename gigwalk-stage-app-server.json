@@ -17,7 +17,7 @@
     "canUseCrowdsourcing": {
         "orgNeedsCore": true
     },
-    "showCrowdsourcingToggle": false,
+    "showCrowdsourcingToggle": true,
     "SPB_HardDatedTickets": [{
         "verticals": ["STAFFING"]
     }, {
