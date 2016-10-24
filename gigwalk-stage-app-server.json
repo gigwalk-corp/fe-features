@@ -15,7 +15,7 @@
         "orgs": [7]
     },
     "Ticket_Chart_GWP6481": {
-        "orgs": [752]
+        "orgs": [752, 7]
     },
     "canUseCrowdsourcing": {
         "orgNeedsCore": true
