@@ -33,9 +33,6 @@
     "showProductTab": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
-    "SPB_AdvancedQuestionFeatures": {
-        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
-    },
     "SPB_TicketDateRange": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING", "STAFFING"]
     },
