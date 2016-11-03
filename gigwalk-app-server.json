@@ -1,0 +1,36 @@
+{
+    "projectBuilder": [{
+        "verticals": ["STAFFING"]
+    },
+    "ticketRefacto": {},
+    "projectBuilderRepeat": {
+        "orgs": [7]
+    },
+    "canUseCrowdsourcing": {
+        "orgNeedsCore": true
+    },
+    "showCrowdsourcingToggle": true,
+    "SPB_HardDatedTickets": [{
+        "verticals": ["STAFFING"]
+    }, {
+        "orgs": [7]
+    }],
+    "SPB_SoftDatedTickets": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "SPB_LocationUpload": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "showProductTab": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "SPB_AdvancedQuestionFeatures": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "SPB_TicketDateRange": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING", "STAFFING"]
+    },
+    "SPB_TicketDateASAP": {
+        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    }
+}
