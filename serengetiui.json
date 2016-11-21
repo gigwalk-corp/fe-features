@@ -30,9 +30,7 @@
     "SPB_LocationUpload": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
-    "showProductTab": {
-        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
-    },
+    "showProductTab": false,
     "SPB_TicketDateRange": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING", "STAFFING"]
     },
