@@ -29,5 +29,8 @@
     },
     "SPB_TicketDateASAP": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "SPB_R3_REFACTOR": {
+        "orgs":[28650]
     }
 }
