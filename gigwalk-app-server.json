@@ -19,7 +19,7 @@
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
     "SPB_LocationUpload": {
-        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+        "verticals": ["CPG", "RETAIL_MERCHANDISING", "MARKET_RESEARCH", "CONSULTING"]
     },
     "showProductTab": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
@@ -29,5 +29,8 @@
     },
     "SPB_TicketDateASAP": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "SPB_R3_REFACTOR": {
+        "orgs":[28650]
     }
 }
