@@ -25,9 +25,7 @@
         "verticals": ["RETAIL_MERCHANDISING"],
         "orgs": [7]
     }],
-    "SPB_SoftDatedTickets": {
-        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
-    },
+    "SPB_SoftDatedTickets": false,
     "SPB_LocationUpload": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
