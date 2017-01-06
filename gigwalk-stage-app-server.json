@@ -15,6 +15,9 @@
     "canUseCrowdsourcing": {
         "orgNeedsCore": true
     },
+    "projectDetailRefactor": {
+	 "orgs": [752]
+    },
     "canAccessPayments": {
         "orgs": [7313, 1003]
     },
