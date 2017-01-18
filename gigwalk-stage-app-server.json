@@ -19,7 +19,7 @@
 	 "orgs": [752]
     },
     "canAccessPayments": {
-        "orgs": [7313, 1003]
+        "orgs": [7313, 1003, 381]
     },
     "canCreateMultidayGigs": {
 	"orgs": [365]
