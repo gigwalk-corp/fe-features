@@ -16,7 +16,7 @@
         "orgNeedsCore": true
     },
     "projectDetailRefactor": {
-	 "orgs": [752]
+	 "orgs": []
     },
     "canAccessPayments": {
         "orgs": [7313, 1003, 381]
