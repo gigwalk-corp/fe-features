@@ -15,6 +15,9 @@
     "canAccessPayments": {
         "orgs": [324]
     },
+    "canCreateMultidayGigs": {
+	    "orgs": [424]
+    },
     "showCrowdsourcingToggle": true,
     "SPB_HardDatedTickets": [{
         "verticals": ["STAFFING"]
