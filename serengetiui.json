@@ -16,7 +16,7 @@
         "orgs": [324]
     },
     "canCreateMultidayGigs": {
-	    "orgs": [424]
+	    "orgs": []
     },
     "showCrowdsourcingToggle": true,
     "SPB_HardDatedTickets": [{
