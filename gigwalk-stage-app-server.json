@@ -47,6 +47,6 @@
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
     "needsPublicWorkforce": {
-      "orgs": [66289]
+      "orgs": [66289, 1003]
     }
 }
