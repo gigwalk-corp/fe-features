@@ -13,10 +13,10 @@
         "orgNeedsCore": true
     },
     "canAccessPayments": {
-        "orgs": [324]
+        "orgs": [324, 412]
     },
     "canCreateMultidayGigs": {
-	    "orgs": []
+	"orgs": []
     },
     "showCrowdsourcingToggle": true,
     "SPB_HardDatedTickets": [{
@@ -37,5 +37,8 @@
     },
     "SPB_TicketDateASAP": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
+    },
+    "needsPublicWorkforce": {
+      "orgs": [412]
     }
 }
