@@ -1,4 +1,7 @@
 {
+    "oldProjectBuilder": {
+        "orgs": [7]
+    },
     "projectBuilder": [{
         "verticals": ["STAFFING"]
     }],
