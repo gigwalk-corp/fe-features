@@ -5,10 +5,7 @@
     "ticketRefacto": {
         "orgs": [379]
     },
-    "projectBuilderRepeat": {
-        "verticals": ["RETAIL_MERCHANDISING"],
-        "orgs": [7]
-    },
+    "projectBuilderRepeat": false,
     "canUseCrowdsourcing": {
         "orgNeedsCore": true
     },
