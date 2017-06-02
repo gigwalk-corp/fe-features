@@ -12,6 +12,7 @@
     "canUseCrowdsourcing": {
         "orgNeedsCore": true
     },
+    "canAccessPayments": false,
     "showCrowdsourcingToggle": true,
     "SPB_HardDatedTickets": [{
         "verticals": ["STAFFING"]
@@ -32,5 +33,6 @@
     },
     "SPB_R3_REFACTOR": {
         "orgs":[28650]
-    }
+    },
+    "needsPublicWorkforce": false
 }
