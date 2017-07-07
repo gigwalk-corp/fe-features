@@ -21,9 +21,7 @@
     "SPB_LocationUpload": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
-    "showProductTab": {
-        "verticals": ["CPG", "RETAIL_MERCHANDISING"]
-    },
+    "showProductTab": false,
     "SPB_AdvancedQuestionFeatures": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
