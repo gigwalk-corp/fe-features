@@ -13,7 +13,7 @@
         "orgNeedsCore": true
     },
     "canAccessPayments": {
-        "orgs": [2856] 
+        "orgs": [2856, 4274] 
     },
     "showCrowdsourcingToggle": true,
     "SPB_HardDatedTickets": [{
@@ -40,6 +40,6 @@
         "orgs": [347]
     },
     "needsPublicWorkforce": {
-        "orgs": [2856]
+        "orgs": [2856, 4274]
     }
 }
