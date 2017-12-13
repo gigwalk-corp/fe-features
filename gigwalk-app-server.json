@@ -40,6 +40,6 @@
         "orgs": [347]
     },
     "needsPublicWorkforce": {
-        "orgs": [2856, 4274]
+        "orgNeedsCore": true
     }
 }
