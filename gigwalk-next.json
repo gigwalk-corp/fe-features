@@ -11,7 +11,7 @@
     },
     "showCrowdsourcingToggle": true,
     "canAccessPayments": {
-        "orgs": [4196, 2856]
+        "orgs": [4196, 2856, 1087]
     },
     "SPB_HardDatedTickets": [{
         "verticals": ["STAFFING"]
@@ -38,6 +38,6 @@
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
     "needsPublicWorkforce": {
-      "orgs": [4196, 2856]
+      "orgs": [4196, 2856, 1087]
     }
 }
