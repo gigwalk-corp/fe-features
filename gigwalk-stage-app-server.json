@@ -46,7 +46,9 @@
     "SPB_TicketDateASAP": {
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
-    "needsPublicWorkforce": {
-      "orgs": [66289, 1003, 487, 102369, 104502, 102384]
-    }
+    "needsPublicWorkforce": [{
+       "orgs": [66289, 1003, 487, 102369, 104502, 102384]
+    }, {
+       "orgNeedsCore": true
+    }]
 }
