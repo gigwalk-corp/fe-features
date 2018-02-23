@@ -39,8 +39,9 @@
     "Ticket_Chart_GWP6481": {
         "orgs": [347]
     },
-    "needsPublicWorkforce": {
-        "orgNeedsCore": true,
+    "needsPublicWorkforce": [{
+        "orgNeedsCore": true
+    }, {
         "orgs": [1087]
-    }
+    }]
 }
