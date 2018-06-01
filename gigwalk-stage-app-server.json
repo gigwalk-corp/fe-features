@@ -19,7 +19,7 @@
 	 "orgs": []
     },
     "canAccessPayments": {
-        "orgs": [7313, 1003, 381, 66289, 487, 102369, 104502, 752]
+        "orgs": [7313, 1003, 381, 66289, 487, 102369, 104502, 752, 119550]
     },
     "canCreateMultidayGigs": {
 	"orgs": [365]
@@ -47,7 +47,7 @@
         "verticals": ["CPG", "RETAIL_MERCHANDISING"]
     },
     "needsPublicWorkforce": [{
-       "orgs": [66289, 1003, 487, 102369, 104502, 102384]
+       "orgs": [66289, 1003, 487, 102369, 104502, 102384, 119550]
     }, {
        "orgNeedsCore": true
     }]
