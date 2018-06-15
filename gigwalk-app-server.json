@@ -1,6 +1,6 @@
 {
     "oldProjectBuilder": {
-        "orgs": [426, 3842, 858, 4043, 845, 330, 5556]
+        "orgs": [426, 3842, 858, 4043, 845, 5556]
     },
     "projectBuilder": [{
         "verticals": ["STAFFING"]
@@ -13,7 +13,7 @@
         "orgNeedsCore": true
     },
     "canAccessPayments": {
-        "orgs": [2856, 1087, 4595] 
+        "orgs": [2856, 1087, 4595, 330] 
     },
     "showCrowdsourcingToggle": true,
     "SPB_HardDatedTickets": [{
@@ -42,6 +42,6 @@
     "needsPublicWorkforce": [{
         "orgNeedsCore": true
     }, {
-        "orgs": [1087, 5556, 4595]
+        "orgs": [1087, 5556, 4595, 330]
     }]
 }
