@@ -12,9 +12,7 @@
     "canUseCrowdsourcing": {
         "orgNeedsCore": true
     },
-    "canAccessPayments": {
-        "orgs": [2856, 1087, 4595, 6186, 6695, 6789, 3709] 
-    },
+    "canAccessPayments": true,
     "showCrowdsourcingToggle": true,
     "SPB_HardDatedTickets": [{
         "verticals": ["STAFFING"]
@@ -39,9 +37,5 @@
     "Ticket_Chart_GWP6481": {
         "orgs": [347]
     },
-    "needsPublicWorkforce": [{
-        "orgNeedsCore": true
-    }, {
-        "orgs": [1087, 5556, 4595, 330, 6186, 6695, 6789, 3709]
-    }]
+    "needsPublicWorkforce": true
 }
